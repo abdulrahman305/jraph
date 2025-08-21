@@ -4,3 +4,5 @@ sphinxcontrib-katex==0.7.1
 sphinxcontrib-bibtex==1.0.0
 sphinx-autodoc-typehints==1.11.1
 nbsphinx==0.8.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
